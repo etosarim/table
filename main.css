@@ -1,0 +1,35 @@
+body {
+    background-color: rgba(42, 93, 90, 1);
+    display: flex;
+    justify-content: center;
+   
+}
+.container {
+    text-align: center;
+    width: 80%;
+}
+
+.title {
+    background-color: rgba(49, 19, 19, 1);
+    color: #fff;
+    font-size: 34px;
+   margin: 2%;
+   
+}
+
+.table {
+  border: 5px solid rgb(255, 6, 6);
+  margin: 10px auto;
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 1);
+  max-width: 500px;
+  width: 500px;
+  height: 358px;    
+}
+
+.tablee{
+    background-color: rgba(31, 232, 183, 1);
+    text-emphasis: none;
+}
+
+
